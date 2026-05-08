@@ -1,0 +1,15 @@
+c:\Users\danni\Desktop\Grupo6_Programacion\SumaArreglos\bin\Debug\net10.0\SumaArreglos.exe
+c:\Users\danni\Desktop\Grupo6_Programacion\SumaArreglos\bin\Debug\net10.0\SumaArreglos.deps.json
+c:\Users\danni\Desktop\Grupo6_Programacion\SumaArreglos\bin\Debug\net10.0\SumaArreglos.runtimeconfig.json
+c:\Users\danni\Desktop\Grupo6_Programacion\SumaArreglos\bin\Debug\net10.0\SumaArreglos.dll
+c:\Users\danni\Desktop\Grupo6_Programacion\SumaArreglos\bin\Debug\net10.0\SumaArreglos.pdb
+c:\Users\danni\Desktop\Grupo6_Programacion\SumaArreglos\obj\Debug\net10.0\SumaArreglos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\danni\Desktop\Grupo6_Programacion\SumaArreglos\obj\Debug\net10.0\SumaArreglos.AssemblyInfoInputs.cache
+c:\Users\danni\Desktop\Grupo6_Programacion\SumaArreglos\obj\Debug\net10.0\SumaArreglos.AssemblyInfo.cs
+c:\Users\danni\Desktop\Grupo6_Programacion\SumaArreglos\obj\Debug\net10.0\SumaArreglos.csproj.CoreCompileInputs.cache
+c:\Users\danni\Desktop\Grupo6_Programacion\SumaArreglos\obj\Debug\net10.0\SumaArreglos.sourcelink.json
+c:\Users\danni\Desktop\Grupo6_Programacion\SumaArreglos\obj\Debug\net10.0\SumaArreglos.dll
+c:\Users\danni\Desktop\Grupo6_Programacion\SumaArreglos\obj\Debug\net10.0\refint\SumaArreglos.dll
+c:\Users\danni\Desktop\Grupo6_Programacion\SumaArreglos\obj\Debug\net10.0\SumaArreglos.pdb
+c:\Users\danni\Desktop\Grupo6_Programacion\SumaArreglos\obj\Debug\net10.0\SumaArreglos.genruntimeconfig.cache
+c:\Users\danni\Desktop\Grupo6_Programacion\SumaArreglos\obj\Debug\net10.0\ref\SumaArreglos.dll
