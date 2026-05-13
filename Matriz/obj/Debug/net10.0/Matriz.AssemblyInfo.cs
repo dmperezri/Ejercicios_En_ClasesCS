@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ProductoEscalar")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Matriz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c397f38eb032c9897fcef7a77152dac492d36ad")]
-[assembly: System.Reflection.AssemblyProductAttribute("ProductoEscalar")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ProductoEscalar")]
+[assembly: System.Reflection.AssemblyProductAttribute("Matriz")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Matriz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
